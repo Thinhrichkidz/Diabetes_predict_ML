@@ -1,6 +1,4 @@
-"""
-@author: Viet Nguyen <nhviet1009@gmail.com>
-"""
+
 # Data wrangling
 import pandas as pd
 import numpy as np
